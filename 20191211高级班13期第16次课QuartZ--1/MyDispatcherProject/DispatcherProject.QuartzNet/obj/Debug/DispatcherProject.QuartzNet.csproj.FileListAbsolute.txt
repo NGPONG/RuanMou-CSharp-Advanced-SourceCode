@@ -1,0 +1,9 @@
+D:\Ruanmou\Advanced13Encrypt\20191211高级班13期第16次课QuartZ调度服务专题--1\MyDispatcherProject\DispatcherProject.QuartzNet\bin\Debug\DispatcherProject.QuartzNet.dll
+D:\Ruanmou\Advanced13Encrypt\20191211高级班13期第16次课QuartZ调度服务专题--1\MyDispatcherProject\DispatcherProject.QuartzNet\bin\Debug\DispatcherProject.QuartzNet.pdb
+D:\Ruanmou\Advanced13Encrypt\20191211高级班13期第16次课QuartZ调度服务专题--1\MyDispatcherProject\DispatcherProject.QuartzNet\obj\Debug\DispatcherProject.QuartzNet.dll
+D:\Ruanmou\Advanced13Encrypt\20191211高级班13期第16次课QuartZ调度服务专题--1\MyDispatcherProject\DispatcherProject.QuartzNet\obj\Debug\DispatcherProject.QuartzNet.pdb
+D:\Ruanmou\Advanced13Encrypt\20191211高级班13期第16次课QuartZ调度服务专题--1\MyDispatcherProject\DispatcherProject.QuartzNet\bin\Debug\Quartz.dll
+D:\Ruanmou\Advanced13Encrypt\20191211高级班13期第16次课QuartZ调度服务专题--1\MyDispatcherProject\DispatcherProject.QuartzNet\bin\Debug\Quartz.pdb
+D:\Ruanmou\Advanced13Encrypt\20191211高级班13期第16次课QuartZ调度服务专题--1\MyDispatcherProject\DispatcherProject.QuartzNet\bin\Debug\Quartz.xml
+D:\Ruanmou\Advanced13Encrypt\20191211高级班13期第16次课QuartZ调度服务专题--1\MyDispatcherProject\DispatcherProject.QuartzNet\obj\Debug\DispatcherProject.QuartzNet.csprojAssemblyReference.cache
+D:\Ruanmou\Advanced13Encrypt\20191211高级班13期第16次课QuartZ调度服务专题--1\MyDispatcherProject\DispatcherProject.QuartzNet\obj\Debug\DispatcherProject.QuartzNet.csproj.CopyComplete

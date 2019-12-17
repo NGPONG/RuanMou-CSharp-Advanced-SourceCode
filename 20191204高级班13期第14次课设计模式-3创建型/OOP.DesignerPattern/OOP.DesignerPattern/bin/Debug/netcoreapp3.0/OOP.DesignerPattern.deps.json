@@ -1,0 +1,102 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "OOP.DesignerPattern/1.0.0": {
+        "dependencies": {
+          "OOP.DesignerPattern.AdapterPattern": "1.0.0",
+          "OOP.DesignerPattern.DecoratorPattern": "1.0.0",
+          "OOP.DesignerPattern.ObserverPattern": "1.0.0",
+          "OOP.DesignerPattern.ProxyPattern": "1.0.0",
+          "OOP.DesignerPattern.ResponsibilityChainPattern": "1.0.0",
+          "OOP.DesignerPattern.SingletonPattern": "1.0.0",
+          "OOP.DesignerPattern.TemplateMethodPattern": "1.0.0"
+        },
+        "runtime": {
+          "OOP.DesignerPattern.dll": {}
+        }
+      },
+      "OOP.DesignerPattern.AdapterPattern/1.0.0": {
+        "runtime": {
+          "OOP.DesignerPattern.AdapterPattern.dll": {}
+        }
+      },
+      "OOP.DesignerPattern.DecoratorPattern/1.0.0": {
+        "runtime": {
+          "OOP.DesignerPattern.DecoratorPattern.dll": {}
+        }
+      },
+      "OOP.DesignerPattern.ObserverPattern/1.0.0": {
+        "runtime": {
+          "OOP.DesignerPattern.ObserverPattern.dll": {}
+        }
+      },
+      "OOP.DesignerPattern.ProxyPattern/1.0.0": {
+        "runtime": {
+          "OOP.DesignerPattern.ProxyPattern.dll": {}
+        }
+      },
+      "OOP.DesignerPattern.ResponsibilityChainPattern/1.0.0": {
+        "runtime": {
+          "OOP.DesignerPattern.ResponsibilityChainPattern.dll": {}
+        }
+      },
+      "OOP.DesignerPattern.SingletonPattern/1.0.0": {
+        "runtime": {
+          "OOP.DesignerPattern.SingletonPattern.dll": {}
+        }
+      },
+      "OOP.DesignerPattern.TemplateMethodPattern/1.0.0": {
+        "runtime": {
+          "OOP.DesignerPattern.TemplateMethodPattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP.DesignerPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OOP.DesignerPattern.AdapterPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OOP.DesignerPattern.DecoratorPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OOP.DesignerPattern.ObserverPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OOP.DesignerPattern.ProxyPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OOP.DesignerPattern.ResponsibilityChainPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OOP.DesignerPattern.SingletonPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OOP.DesignerPattern.TemplateMethodPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

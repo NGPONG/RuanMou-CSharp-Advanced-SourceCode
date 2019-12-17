@@ -1,0 +1,53 @@
+D:\ruanmou\OpenCourse\designmode\2 SimpleFactory\FactoryPattern\FactoryPattern.War3.Interface\bin\Debug\FactoryPattern.War3.Interface.dll
+D:\ruanmou\OpenCourse\designmode\2 SimpleFactory\FactoryPattern\FactoryPattern.War3.Interface\bin\Debug\FactoryPattern.War3.Interface.pdb
+D:\ruanmou\OpenCourse\designmode\2 SimpleFactory\FactoryPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.dll
+D:\ruanmou\OpenCourse\designmode\2 SimpleFactory\FactoryPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.pdb
+D:\ruanmou\OpenCourse\designmode\3 FactoryMethod\FactoryPattern\FactoryPattern.War3.Interface\bin\Debug\FactoryPattern.War3.Interface.dll
+D:\ruanmou\OpenCourse\designmode\3 FactoryMethod\FactoryPattern\FactoryPattern.War3.Interface\bin\Debug\FactoryPattern.War3.Interface.pdb
+D:\ruanmou\OpenCourse\designmode\3 FactoryMethod\FactoryPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.csprojResolveAssemblyReference.cache
+D:\ruanmou\OpenCourse\designmode\3 FactoryMethod\FactoryPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.dll
+D:\ruanmou\OpenCourse\designmode\3 FactoryMethod\FactoryPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.pdb
+D:\ruanmou\OpenCourse\designmode\4 AbstractFactory\FactoryPattern\FactoryPattern.War3.Interface\bin\Debug\FactoryPattern.War3.Interface.dll
+D:\ruanmou\OpenCourse\designmode\4 AbstractFactory\FactoryPattern\FactoryPattern.War3.Interface\bin\Debug\FactoryPattern.War3.Interface.pdb
+D:\ruanmou\OpenCourse\designmode\4 AbstractFactory\FactoryPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.dll
+D:\ruanmou\OpenCourse\designmode\4 AbstractFactory\FactoryPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.pdb
+D:\ruanmou\OpenCourse\designmode\4 AbstractFactory\FactoryPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.csprojResolveAssemblyReference.cache
+D:\ruanmou\online9\20170705Advanced9Course14DesignPatternPrinciple\DesignPattern\FactoryPattern.War3.Interface\bin\Debug\FactoryPattern.War3.Interface.dll
+D:\ruanmou\online9\20170705Advanced9Course14DesignPatternPrinciple\DesignPattern\FactoryPattern.War3.Interface\bin\Debug\FactoryPattern.War3.Interface.pdb
+D:\ruanmou\online9\20170705Advanced9Course14DesignPatternPrinciple\DesignPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.dll
+D:\ruanmou\online9\20170705Advanced9Course14DesignPatternPrinciple\DesignPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.pdb
+D:\ruanmou\online9\20170705Advanced9Course14DesignPatternPrinciple\DesignPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.csprojResolveAssemblyReference.cache
+D:\ruanmou\online9\20170706Advanced9Course15DesignPattern\DesignPattern\FactoryPattern.War3.Interface\bin\Debug\FactoryPattern.War3.Interface.dll
+D:\ruanmou\online9\20170706Advanced9Course15DesignPattern\DesignPattern\FactoryPattern.War3.Interface\bin\Debug\FactoryPattern.War3.Interface.pdb
+D:\ruanmou\online9\20170706Advanced9Course15DesignPattern\DesignPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.dll
+D:\ruanmou\online9\20170706Advanced9Course15DesignPattern\DesignPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.pdb
+D:\ruanmou\online10\20171220Advanced10Course17DesignPattern\DesignPattern\FactoryPattern.War3.Interface\bin\Debug\FactoryPattern.War3.Interface.dll
+D:\ruanmou\online10\20171220Advanced10Course17DesignPattern\DesignPattern\FactoryPattern.War3.Interface\bin\Debug\FactoryPattern.War3.Interface.pdb
+D:\ruanmou\online10\20171220Advanced10Course17DesignPattern\DesignPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.csproj.CoreCompileInputs.cache
+D:\ruanmou\online10\20171220Advanced10Course17DesignPattern\DesignPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.dll
+D:\ruanmou\online10\20171220Advanced10Course17DesignPattern\DesignPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.pdb
+D:\ruanmou\online11\20180626Advanced11Course23DesignPattern\DesignPattern\FactoryPattern.War3.Interface\bin\Debug\FactoryPattern.War3.Interface.dll
+D:\ruanmou\online11\20180626Advanced11Course23DesignPattern\DesignPattern\FactoryPattern.War3.Interface\bin\Debug\FactoryPattern.War3.Interface.pdb
+D:\ruanmou\online11\20180626Advanced11Course23DesignPattern\DesignPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.csproj.CoreCompileInputs.cache
+D:\ruanmou\online11\20180626Advanced11Course23DesignPattern\DesignPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.dll
+D:\ruanmou\online11\20180626Advanced11Course23DesignPattern\DesignPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.pdb
+D:\ruanmou\online12\20190122Advanced12Course21DesignPattern\DesignPattern\FactoryPattern.War3.Interface\bin\Debug\FactoryPattern.War3.Interface.dll
+D:\ruanmou\online12\20190122Advanced12Course21DesignPattern\DesignPattern\FactoryPattern.War3.Interface\bin\Debug\FactoryPattern.War3.Interface.pdb
+D:\ruanmou\online12\20190122Advanced12Course21DesignPattern\DesignPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.csproj.CoreCompileInputs.cache
+D:\ruanmou\online12\20190122Advanced12Course21DesignPattern\DesignPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.dll
+D:\ruanmou\online12\20190122Advanced12Course21DesignPattern\DesignPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.pdb
+D:\ruanmou\online12\20190123Advanced12Course22DesignPattern\DesignPattern\FactoryPattern.War3.Interface\bin\Debug\FactoryPattern.War3.Interface.dll
+D:\ruanmou\online12\20190123Advanced12Course22DesignPattern\DesignPattern\FactoryPattern.War3.Interface\bin\Debug\FactoryPattern.War3.Interface.pdb
+D:\ruanmou\online12\20190123Advanced12Course22DesignPattern\DesignPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.csprojAssemblyReference.cache
+D:\ruanmou\online12\20190123Advanced12Course22DesignPattern\DesignPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.csproj.CoreCompileInputs.cache
+D:\ruanmou\online12\20190123Advanced12Course22DesignPattern\DesignPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.dll
+D:\ruanmou\online12\20190123Advanced12Course22DesignPattern\DesignPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.pdb
+D:\ruanmou\online12\20190124Advanced12Course23DesignPattern\DesignPattern\FactoryPattern.War3.Interface\bin\Debug\FactoryPattern.War3.Interface.dll
+D:\ruanmou\online12\20190124Advanced12Course23DesignPattern\DesignPattern\FactoryPattern.War3.Interface\bin\Debug\FactoryPattern.War3.Interface.pdb
+D:\ruanmou\online12\20190124Advanced12Course23DesignPattern\DesignPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.csproj.CoreCompileInputs.cache
+D:\ruanmou\online12\20190124Advanced12Course23DesignPattern\DesignPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.dll
+D:\ruanmou\online12\20190124Advanced12Course23DesignPattern\DesignPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.pdb
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\FactoryPattern.War3.Interface\bin\Debug\FactoryPattern.War3.Interface.dll
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\FactoryPattern.War3.Interface\bin\Debug\FactoryPattern.War3.Interface.pdb
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.dll
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\FactoryPattern.War3.Interface\obj\Debug\FactoryPattern.War3.Interface.pdb

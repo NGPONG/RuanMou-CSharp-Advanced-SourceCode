@@ -1,0 +1,8 @@
+1 特性attribute，和注释有什么区别
+2 声明和使用attribute，AttributeUsage
+3 运行中获取attribute：额外信息 额外操作
+本次课
+
+
+4 Remark封装、attribute验证
+

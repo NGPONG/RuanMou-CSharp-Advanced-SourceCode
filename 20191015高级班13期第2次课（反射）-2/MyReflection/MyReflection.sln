@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyReflection", "MyReflection\MyReflection.csproj", "{3B0139FC-A852-44D1-8EDF-E3F52D6FC3AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruanmou.DB.Interface", "Ruanmou.DB.Interface\Ruanmou.DB.Interface.csproj", "{051FC20D-D8B5-43E5-AAC7-087E6111DC6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruanmou.DB.MySql", "Ruanmou.DB.MySql\Ruanmou.DB.MySql.csproj", "{D18899E6-CDA4-4118-B488-7760A1C4ED59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruanmou.DB.SqlServer", "Ruanmou.DB.SqlServer\Ruanmou.DB.SqlServer.csproj", "{FD6E412C-7840-44B4-9794-E314EA7A3659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruanmou.Model", "Ruanmou.Model\Ruanmou.Model.csproj", "{52DA0DF6-3F1F-4D6A-9FD7-7BDE554668E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruanmou.DB.Orcale", "Ruanmou.DB.Orcale\Ruanmou.DB.Orcale.csproj", "{CADF10B8-9872-437E-893F-1A287B3DDBBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B0139FC-A852-44D1-8EDF-E3F52D6FC3AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0139FC-A852-44D1-8EDF-E3F52D6FC3AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0139FC-A852-44D1-8EDF-E3F52D6FC3AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0139FC-A852-44D1-8EDF-E3F52D6FC3AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{051FC20D-D8B5-43E5-AAC7-087E6111DC6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{051FC20D-D8B5-43E5-AAC7-087E6111DC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{051FC20D-D8B5-43E5-AAC7-087E6111DC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{051FC20D-D8B5-43E5-AAC7-087E6111DC6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D18899E6-CDA4-4118-B488-7760A1C4ED59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D18899E6-CDA4-4118-B488-7760A1C4ED59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D18899E6-CDA4-4118-B488-7760A1C4ED59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D18899E6-CDA4-4118-B488-7760A1C4ED59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD6E412C-7840-44B4-9794-E314EA7A3659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6E412C-7840-44B4-9794-E314EA7A3659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6E412C-7840-44B4-9794-E314EA7A3659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6E412C-7840-44B4-9794-E314EA7A3659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52DA0DF6-3F1F-4D6A-9FD7-7BDE554668E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52DA0DF6-3F1F-4D6A-9FD7-7BDE554668E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52DA0DF6-3F1F-4D6A-9FD7-7BDE554668E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52DA0DF6-3F1F-4D6A-9FD7-7BDE554668E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CADF10B8-9872-437E-893F-1A287B3DDBBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADF10B8-9872-437E-893F-1A287B3DDBBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADF10B8-9872-437E-893F-1A287B3DDBBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADF10B8-9872-437E-893F-1A287B3DDBBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12E8C7DA-2EA0-4624-8956-C8F99E548C2B}
+	EndGlobalSection
+EndGlobal

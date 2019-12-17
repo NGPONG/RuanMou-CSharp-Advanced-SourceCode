@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "OOP.DesignerPattern.ProxyPattern/1.0.0": {
+        "runtime": {
+          "OOP.DesignerPattern.ProxyPattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP.DesignerPattern.ProxyPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

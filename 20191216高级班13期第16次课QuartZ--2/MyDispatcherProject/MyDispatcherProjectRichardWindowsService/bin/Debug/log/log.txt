@@ -1,0 +1,1527 @@
+2019-12-16 21:44:57,992 [1] INFO  MyDispatcherProject.Common.Log4NetLogger - 系统初始化Logger模块
+2019-12-16 21:44:58,524 [7] INFO  MyDispatcherProjectRichardWindowsService.Service1 - Service1  is Start
+2019-12-16 21:45:00,002 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:00,002 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:45:00 
+2019-12-16 21:45:00,003 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:03,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:03,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:45:03 
+2019-12-16 21:45:03,004 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:06,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:06,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:45:06 
+2019-12-16 21:45:06,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:09,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:09,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:45:09 
+2019-12-16 21:45:09,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:12,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:12,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:45:12 
+2019-12-16 21:45:12,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:15,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:15,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:45:15 
+2019-12-16 21:45:15,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:18,000 [4] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:18,001 [4] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:45:18 
+2019-12-16 21:45:18,001 [4] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:21,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:21,002 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:45:21 
+2019-12-16 21:45:21,003 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:24,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:24,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:45:24 
+2019-12-16 21:45:24,001 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:27,000 [4] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:27,000 [4] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:45:27 
+2019-12-16 21:45:27,001 [4] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:30,000 [4] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:30,000 [4] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:45:30 
+2019-12-16 21:45:30,000 [4] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:33,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:33,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:45:33 
+2019-12-16 21:45:33,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:36,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:36,001 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:45:36 
+2019-12-16 21:45:36,001 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:39,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:39,002 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:45:39 
+2019-12-16 21:45:39,003 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:42,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:42,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:45:42 
+2019-12-16 21:45:42,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:45,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:45,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:45:45 
+2019-12-16 21:45:45,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:48,003 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:48,004 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:45:48 
+2019-12-16 21:45:48,004 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:51,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:51,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:45:51 
+2019-12-16 21:45:51,001 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:54,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:54,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:45:54 
+2019-12-16 21:45:54,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:57,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:45:57,004 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:45:57 
+2019-12-16 21:45:57,005 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:00,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:00,003 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:46:00 
+2019-12-16 21:46:00,007 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:03,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:03,002 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:46:03 
+2019-12-16 21:46:03,004 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:06,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:06,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:46:06 
+2019-12-16 21:46:06,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:09,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:09,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:46:09 
+2019-12-16 21:46:09,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:12,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:12,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:46:12 
+2019-12-16 21:46:12,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:15,000 [4] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:15,000 [4] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:46:15 
+2019-12-16 21:46:15,001 [4] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:18,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:18,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:46:18 
+2019-12-16 21:46:18,001 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:21,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:21,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:46:21 
+2019-12-16 21:46:21,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:24,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:24,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:46:24 
+2019-12-16 21:46:24,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:27,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:27,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:46:27 
+2019-12-16 21:46:27,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:30,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:30,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:46:30 
+2019-12-16 21:46:30,001 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:33,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:33,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:46:33 
+2019-12-16 21:46:33,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:36,000 [4] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:36,001 [4] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:46:36 
+2019-12-16 21:46:36,002 [4] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:39,000 [4] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:39,002 [4] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:46:39 
+2019-12-16 21:46:39,004 [4] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:42,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:42,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:46:42 
+2019-12-16 21:46:42,001 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:45,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:45,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:46:45 
+2019-12-16 21:46:45,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:48,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:48,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:46:48 
+2019-12-16 21:46:48,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:51,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:51,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:46:51 
+2019-12-16 21:46:51,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:54,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:54,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:46:54 
+2019-12-16 21:46:54,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:57,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:46:57,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:46:57 
+2019-12-16 21:46:57,002 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:00,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:00,002 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:47:00 
+2019-12-16 21:47:00,002 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:03,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:03,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:47:03 
+2019-12-16 21:47:03,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:06,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:06,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:47:06 
+2019-12-16 21:47:06,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:09,010 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:09,011 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:47:09 
+2019-12-16 21:47:09,012 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:12,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:12,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:47:12 
+2019-12-16 21:47:12,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:15,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:15,002 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:47:15 
+2019-12-16 21:47:15,003 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:18,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:18,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:47:18 
+2019-12-16 21:47:18,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:21,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:21,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:47:21 
+2019-12-16 21:47:21,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:24,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:24,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:47:24 
+2019-12-16 21:47:24,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:27,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:27,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:47:27 
+2019-12-16 21:47:27,002 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:30,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:30,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:47:30 
+2019-12-16 21:47:30,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:33,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:33,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:47:33 
+2019-12-16 21:47:33,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:36,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:36,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:47:36 
+2019-12-16 21:47:36,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:39,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:39,002 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:47:39 
+2019-12-16 21:47:39,003 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:42,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:42,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:47:42 
+2019-12-16 21:47:42,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:45,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:45,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:47:45 
+2019-12-16 21:47:45,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:48,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:48,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:47:48 
+2019-12-16 21:47:48,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:51,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:51,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:47:51 
+2019-12-16 21:47:51,002 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:54,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:54,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:47:54 
+2019-12-16 21:47:54,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:57,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:47:57,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:47:57 
+2019-12-16 21:47:57,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:00,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:00,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:48:00 
+2019-12-16 21:48:00,002 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:03,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:03,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:48:03 
+2019-12-16 21:48:03,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:06,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:06,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:48:06 
+2019-12-16 21:48:06,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:09,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:09,002 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:48:09 
+2019-12-16 21:48:09,003 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:12,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:12,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:48:12 
+2019-12-16 21:48:12,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:15,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:15,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:48:15 
+2019-12-16 21:48:15,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:18,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:18,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:48:18 
+2019-12-16 21:48:18,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:21,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:21,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:48:21 
+2019-12-16 21:48:21,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:24,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:24,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:48:24 
+2019-12-16 21:48:24,002 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:27,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:27,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:48:27 
+2019-12-16 21:48:27,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:30,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:30,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:48:30 
+2019-12-16 21:48:30,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:33,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:33,003 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:48:33 
+2019-12-16 21:48:33,006 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:36,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:36,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:48:36 
+2019-12-16 21:48:36,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:39,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:39,002 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:48:39 
+2019-12-16 21:48:39,004 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:42,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:42,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:48:42 
+2019-12-16 21:48:42,002 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:45,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:45,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:48:45 
+2019-12-16 21:48:45,002 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:48,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:48,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:48:48 
+2019-12-16 21:48:48,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:51,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:51,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:48:51 
+2019-12-16 21:48:51,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:54,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:54,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:48:54 
+2019-12-16 21:48:54,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:57,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:48:57,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:48:57 
+2019-12-16 21:48:57,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:00,002 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:00,003 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:49:00 
+2019-12-16 21:49:00,004 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:03,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:03,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:49:03 
+2019-12-16 21:49:03,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:06,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:06,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:49:06 
+2019-12-16 21:49:06,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:09,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:09,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:49:09 
+2019-12-16 21:49:09,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:12,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:12,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:49:12 
+2019-12-16 21:49:12,002 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:15,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:15,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:49:15 
+2019-12-16 21:49:15,002 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:18,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:18,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:49:18 
+2019-12-16 21:49:18,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:21,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:21,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:49:21 
+2019-12-16 21:49:21,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:24,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:24,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:49:24 
+2019-12-16 21:49:24,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:27,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:27,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:49:27 
+2019-12-16 21:49:27,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:30,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:30,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:49:30 
+2019-12-16 21:49:30,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:33,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:33,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:49:33 
+2019-12-16 21:49:33,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:36,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:36,003 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:49:36 
+2019-12-16 21:49:36,006 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:39,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:39,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:49:39 
+2019-12-16 21:49:39,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:42,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:42,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:49:42 
+2019-12-16 21:49:42,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:45,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:45,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:49:45 
+2019-12-16 21:49:45,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:48,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:48,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:49:48 
+2019-12-16 21:49:48,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:51,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:51,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:49:51 
+2019-12-16 21:49:51,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:54,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:54,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:49:54 
+2019-12-16 21:49:54,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:57,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:49:57,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:49:57 
+2019-12-16 21:49:57,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:00,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:00,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:50:00 
+2019-12-16 21:50:00,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:03,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:03,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:50:03 
+2019-12-16 21:50:03,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:06,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:06,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:50:06 
+2019-12-16 21:50:06,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:09,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:09,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:50:09 
+2019-12-16 21:50:09,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:12,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:12,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:50:12 
+2019-12-16 21:50:12,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:15,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:15,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:50:15 
+2019-12-16 21:50:15,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:18,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:18,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:50:18 
+2019-12-16 21:50:18,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:21,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:21,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:50:21 
+2019-12-16 21:50:21,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:24,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:24,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:50:24 
+2019-12-16 21:50:24,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:27,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:27,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:50:27 
+2019-12-16 21:50:27,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:30,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:30,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:50:30 
+2019-12-16 21:50:30,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:33,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:33,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:50:33 
+2019-12-16 21:50:33,002 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:36,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:36,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:50:36 
+2019-12-16 21:50:36,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:39,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:39,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:50:39 
+2019-12-16 21:50:39,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:42,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:42,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:50:42 
+2019-12-16 21:50:42,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:45,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:45,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:50:45 
+2019-12-16 21:50:45,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:48,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:48,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:50:48 
+2019-12-16 21:50:48,002 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:51,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:51,002 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:50:51 
+2019-12-16 21:50:51,002 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:54,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:54,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:50:54 
+2019-12-16 21:50:54,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:57,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:50:57,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:50:57 
+2019-12-16 21:50:57,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:00,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:00,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:51:00 
+2019-12-16 21:51:00,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:03,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:03,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:51:03 
+2019-12-16 21:51:03,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:06,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:06,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:51:06 
+2019-12-16 21:51:06,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:09,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:09,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:51:09 
+2019-12-16 21:51:09,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:12,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:12,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:51:12 
+2019-12-16 21:51:12,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:15,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:15,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:51:15 
+2019-12-16 21:51:15,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:18,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:18,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:51:18 
+2019-12-16 21:51:18,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:21,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:21,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:51:21 
+2019-12-16 21:51:21,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:24,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:24,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:51:24 
+2019-12-16 21:51:24,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:27,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:27,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:51:27 
+2019-12-16 21:51:27,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:30,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:30,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:51:30 
+2019-12-16 21:51:30,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:33,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:33,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:51:33 
+2019-12-16 21:51:33,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:36,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:36,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:51:36 
+2019-12-16 21:51:36,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:39,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:39,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:51:39 
+2019-12-16 21:51:39,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:42,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:42,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:51:42 
+2019-12-16 21:51:42,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:45,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:45,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:51:45 
+2019-12-16 21:51:45,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:48,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:48,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:51:48 
+2019-12-16 21:51:48,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:51,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:51,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:51:51 
+2019-12-16 21:51:51,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:54,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:54,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:51:54 
+2019-12-16 21:51:54,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:57,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:51:57,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:51:57 
+2019-12-16 21:51:57,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:00,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:00,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:52:00 
+2019-12-16 21:52:00,002 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:03,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:03,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:52:03 
+2019-12-16 21:52:03,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:06,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:06,002 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:52:06 
+2019-12-16 21:52:06,004 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:09,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:09,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:52:09 
+2019-12-16 21:52:09,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:12,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:12,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:52:12 
+2019-12-16 21:52:12,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:15,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:15,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:52:15 
+2019-12-16 21:52:15,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:18,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:18,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:52:18 
+2019-12-16 21:52:18,002 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:21,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:21,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:52:21 
+2019-12-16 21:52:21,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:24,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:24,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:52:24 
+2019-12-16 21:52:24,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:27,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:27,003 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:52:27 
+2019-12-16 21:52:27,006 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:30,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:30,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:52:30 
+2019-12-16 21:52:30,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:33,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:33,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:52:33 
+2019-12-16 21:52:33,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:36,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:36,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:52:36 
+2019-12-16 21:52:36,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:39,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:39,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:52:39 
+2019-12-16 21:52:39,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:42,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:42,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:52:42 
+2019-12-16 21:52:42,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:45,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:45,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:52:45 
+2019-12-16 21:52:45,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:48,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:48,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:52:48 
+2019-12-16 21:52:48,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:51,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:51,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:52:51 
+2019-12-16 21:52:51,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:54,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:54,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:52:54 
+2019-12-16 21:52:54,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:57,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:52:57,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:52:57 
+2019-12-16 21:52:57,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:00,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:00,003 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:53:00 
+2019-12-16 21:53:00,004 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:03,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:03,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:53:03 
+2019-12-16 21:53:03,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:06,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:06,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:53:06 
+2019-12-16 21:53:06,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:09,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:09,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:53:09 
+2019-12-16 21:53:09,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:12,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:12,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:53:12 
+2019-12-16 21:53:12,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:15,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:15,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:53:15 
+2019-12-16 21:53:15,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:18,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:18,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:53:18 
+2019-12-16 21:53:18,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:21,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:21,002 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:53:21 
+2019-12-16 21:53:21,003 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:24,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:24,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:53:24 
+2019-12-16 21:53:24,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:27,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:27,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:53:27 
+2019-12-16 21:53:27,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:30,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:30,002 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:53:30 
+2019-12-16 21:53:30,003 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:33,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:33,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:53:33 
+2019-12-16 21:53:33,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:36,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:36,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:53:36 
+2019-12-16 21:53:36,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:39,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:39,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:53:39 
+2019-12-16 21:53:39,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:42,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:42,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:53:42 
+2019-12-16 21:53:42,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:45,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:45,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:53:45 
+2019-12-16 21:53:45,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:48,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:48,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:53:48 
+2019-12-16 21:53:48,002 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:51,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:51,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:53:51 
+2019-12-16 21:53:51,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:54,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:54,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:53:54 
+2019-12-16 21:53:54,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:57,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:53:57,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:53:57 
+2019-12-16 21:53:57,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:00,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:00,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:54:00 
+2019-12-16 21:54:00,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:03,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:03,002 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:54:03 
+2019-12-16 21:54:03,003 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:06,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:06,002 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:54:06 
+2019-12-16 21:54:06,004 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:09,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:09,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:54:09 
+2019-12-16 21:54:09,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:12,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:12,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:54:12 
+2019-12-16 21:54:12,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:15,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:15,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:54:15 
+2019-12-16 21:54:15,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:18,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:18,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:54:18 
+2019-12-16 21:54:18,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:21,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:21,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:54:21 
+2019-12-16 21:54:21,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:24,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:24,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:54:24 
+2019-12-16 21:54:24,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:27,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:27,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:54:27 
+2019-12-16 21:54:27,002 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:30,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:30,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:54:30 
+2019-12-16 21:54:30,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:33,013 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:33,014 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:54:33 
+2019-12-16 21:54:33,015 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:36,004 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:36,006 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:54:36 
+2019-12-16 21:54:36,007 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:39,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:39,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:54:39 
+2019-12-16 21:54:39,002 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:42,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:42,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:54:42 
+2019-12-16 21:54:42,002 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:45,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:45,002 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:54:45 
+2019-12-16 21:54:45,003 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:48,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:48,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:54:48 
+2019-12-16 21:54:48,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:51,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:51,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:54:51 
+2019-12-16 21:54:51,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:54,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:54,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:54:54 
+2019-12-16 21:54:54,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:57,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:54:57,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:54:57 
+2019-12-16 21:54:57,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:00,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:00,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:55:00 
+2019-12-16 21:55:00,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:03,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:03,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:55:03 
+2019-12-16 21:55:03,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:06,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:06,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:55:06 
+2019-12-16 21:55:06,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:09,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:09,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:55:09 
+2019-12-16 21:55:09,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:12,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:12,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:55:12 
+2019-12-16 21:55:12,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:15,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:15,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:55:15 
+2019-12-16 21:55:15,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:18,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:18,002 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:55:18 
+2019-12-16 21:55:18,004 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:21,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:21,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:55:21 
+2019-12-16 21:55:21,003 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:24,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:24,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:55:24 
+2019-12-16 21:55:24,002 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:27,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:27,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:55:27 
+2019-12-16 21:55:27,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:30,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:30,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:55:30 
+2019-12-16 21:55:30,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:33,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:33,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:55:33 
+2019-12-16 21:55:33,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:36,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:36,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:55:36 
+2019-12-16 21:55:36,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:39,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:39,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:55:39 
+2019-12-16 21:55:39,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:42,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:42,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:55:42 
+2019-12-16 21:55:42,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:45,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:45,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:55:45 
+2019-12-16 21:55:45,004 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:48,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:48,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:55:48 
+2019-12-16 21:55:48,002 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:51,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:51,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:55:51 
+2019-12-16 21:55:51,002 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:54,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:54,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:55:54 
+2019-12-16 21:55:54,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:57,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:55:57,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:55:57 
+2019-12-16 21:55:57,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:00,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:00,003 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:56:00 
+2019-12-16 21:56:00,005 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:03,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:03,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:56:03 
+2019-12-16 21:56:03,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:06,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:06,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:56:06 
+2019-12-16 21:56:06,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:09,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:09,002 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:56:09 
+2019-12-16 21:56:09,003 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:12,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:12,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:56:12 
+2019-12-16 21:56:12,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:15,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:15,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:56:15 
+2019-12-16 21:56:15,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:18,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:18,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:56:18 
+2019-12-16 21:56:18,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:21,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:21,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:56:21 
+2019-12-16 21:56:21,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:24,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:24,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:56:24 
+2019-12-16 21:56:24,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:27,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:27,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:56:27 
+2019-12-16 21:56:27,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:30,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:30,002 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:56:30 
+2019-12-16 21:56:30,004 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:33,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:33,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:56:33 
+2019-12-16 21:56:33,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:36,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:36,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:56:36 
+2019-12-16 21:56:36,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:39,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:39,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:56:39 
+2019-12-16 21:56:39,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:42,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:42,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:56:42 
+2019-12-16 21:56:42,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:45,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:45,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:56:45 
+2019-12-16 21:56:45,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:48,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:48,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:56:48 
+2019-12-16 21:56:48,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:51,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:51,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:56:51 
+2019-12-16 21:56:51,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:54,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:54,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:56:54 
+2019-12-16 21:56:54,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:57,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:56:57,002 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:56:57 
+2019-12-16 21:56:57,003 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:00,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:00,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:57:00 
+2019-12-16 21:57:00,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:03,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:03,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:57:03 
+2019-12-16 21:57:03,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:06,006 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:06,007 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:57:06 
+2019-12-16 21:57:06,008 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:09,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:09,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:57:09 
+2019-12-16 21:57:09,002 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:12,002 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:12,004 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:57:12 
+2019-12-16 21:57:12,006 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:15,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:15,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:57:15 
+2019-12-16 21:57:15,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:18,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:18,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:57:18 
+2019-12-16 21:57:18,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:21,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:21,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:57:21 
+2019-12-16 21:57:21,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:24,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:24,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:57:24 
+2019-12-16 21:57:24,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:27,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:27,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:57:27 
+2019-12-16 21:57:27,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:30,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:30,002 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:57:30 
+2019-12-16 21:57:30,003 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:33,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:33,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:57:33 
+2019-12-16 21:57:33,002 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:36,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:36,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:57:36 
+2019-12-16 21:57:36,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:39,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:39,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:57:39 
+2019-12-16 21:57:39,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:42,000 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:42,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:57:42 
+2019-12-16 21:57:42,001 [6] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:45,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:45,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:57:45 
+2019-12-16 21:57:45,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:48,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:48,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:57:48 
+2019-12-16 21:57:48,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:51,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:51,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:57:51 
+2019-12-16 21:57:51,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:54,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:54,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:57:54 
+2019-12-16 21:57:54,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:57,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:57:57,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:57:57 
+2019-12-16 21:57:57,002 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:00,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:00,002 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:58:00 
+2019-12-16 21:58:00,004 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:03,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:03,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:58:03 
+2019-12-16 21:58:03,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:06,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:06,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:58:06 
+2019-12-16 21:58:06,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:09,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:09,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:58:09 
+2019-12-16 21:58:09,002 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:12,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:12,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:58:12 
+2019-12-16 21:58:12,002 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:15,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:15,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:58:15 
+2019-12-16 21:58:15,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:18,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:18,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:58:18 
+2019-12-16 21:58:18,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:21,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:21,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:58:21 
+2019-12-16 21:58:21,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:24,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:24,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:58:24 
+2019-12-16 21:58:24,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:27,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:27,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:58:27 
+2019-12-16 21:58:27,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:30,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:30,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:58:30 
+2019-12-16 21:58:30,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:33,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:33,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:58:33 
+2019-12-16 21:58:33,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:36,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:36,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:58:36 
+2019-12-16 21:58:36,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:39,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:39,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:58:39 
+2019-12-16 21:58:39,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:42,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:42,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:58:42 
+2019-12-16 21:58:42,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:45,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:45,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:58:45 
+2019-12-16 21:58:45,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:48,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:48,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:58:48 
+2019-12-16 21:58:48,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:51,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:51,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:58:51 
+2019-12-16 21:58:51,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:54,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:54,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:58:54 
+2019-12-16 21:58:54,002 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:57,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:58:57,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:58:57 
+2019-12-16 21:58:57,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:00,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:00,002 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:59:00 
+2019-12-16 21:59:00,003 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:03,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:03,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:59:03 
+2019-12-16 21:59:03,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:06,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:06,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:59:06 
+2019-12-16 21:59:06,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:09,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:09,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:59:09 
+2019-12-16 21:59:09,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:12,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:12,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:59:12 
+2019-12-16 21:59:12,002 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:15,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:15,003 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:59:15 
+2019-12-16 21:59:15,005 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:18,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:18,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:59:18 
+2019-12-16 21:59:18,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:21,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:21,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:59:21 
+2019-12-16 21:59:21,002 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:24,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:24,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:59:24 
+2019-12-16 21:59:24,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:27,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:27,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:59:27 
+2019-12-16 21:59:27,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:30,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:30,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:59:30 
+2019-12-16 21:59:30,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:33,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:33,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:59:33 
+2019-12-16 21:59:33,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:36,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:36,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:59:36 
+2019-12-16 21:59:36,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:39,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:39,002 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:59:39 
+2019-12-16 21:59:39,004 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:42,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:42,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:59:42 
+2019-12-16 21:59:42,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:45,000 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:45,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:59:45 
+2019-12-16 21:59:45,001 [7] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:48,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:48,003 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:59:48 
+2019-12-16 21:59:48,005 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:51,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:51,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:59:51 
+2019-12-16 21:59:51,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:54,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:54,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:59:54 
+2019-12-16 21:59:54,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:57,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 21:59:57,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 21:59:57 
+2019-12-16 21:59:57,003 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:00,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:00,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:00:00 
+2019-12-16 22:00:00,002 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:03,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:03,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:00:03 
+2019-12-16 22:00:03,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:06,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:06,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:00:06 
+2019-12-16 22:00:06,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:09,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:09,002 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:00:09 
+2019-12-16 22:00:09,004 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:12,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:12,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:00:12 
+2019-12-16 22:00:12,002 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:15,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:15,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:00:15 
+2019-12-16 22:00:15,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:18,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:18,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:00:18 
+2019-12-16 22:00:18,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:21,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:21,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:00:21 
+2019-12-16 22:00:21,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:24,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:24,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:00:24 
+2019-12-16 22:00:24,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:27,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:27,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:00:27 
+2019-12-16 22:00:27,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:30,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:30,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:00:30 
+2019-12-16 22:00:30,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:33,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:33,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:00:33 
+2019-12-16 22:00:33,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:36,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:36,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:00:36 
+2019-12-16 22:00:36,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:39,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:39,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:00:39 
+2019-12-16 22:00:39,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:42,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:42,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:00:42 
+2019-12-16 22:00:42,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:45,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:45,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:00:45 
+2019-12-16 22:00:45,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:48,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:48,002 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:00:48 
+2019-12-16 22:00:48,004 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:51,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:51,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:00:51 
+2019-12-16 22:00:51,002 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:54,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:54,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:00:54 
+2019-12-16 22:00:54,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:57,000 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:00:57,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:00:57 
+2019-12-16 22:00:57,001 [14] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:00,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:00,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:01:00 
+2019-12-16 22:01:00,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:03,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:03,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:01:03 
+2019-12-16 22:01:03,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:06,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:06,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:01:06 
+2019-12-16 22:01:06,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:09,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:09,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:01:09 
+2019-12-16 22:01:09,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:12,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:12,002 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:01:12 
+2019-12-16 22:01:12,003 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:15,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:15,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:01:15 
+2019-12-16 22:01:15,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:18,000 [17] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:18,000 [17] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:01:18 
+2019-12-16 22:01:18,001 [17] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:21,000 [17] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:21,000 [17] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:01:21 
+2019-12-16 22:01:21,001 [17] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:24,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:24,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:01:24 
+2019-12-16 22:01:24,003 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:27,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:27,001 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:01:27 
+2019-12-16 22:01:27,001 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:30,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:30,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:01:30 
+2019-12-16 22:01:30,001 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:33,000 [17] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:33,001 [17] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:01:33 
+2019-12-16 22:01:33,001 [17] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:36,000 [17] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:36,000 [17] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:01:36 
+2019-12-16 22:01:36,001 [17] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:39,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:39,001 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:01:39 
+2019-12-16 22:01:39,001 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:42,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:42,001 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:01:42 
+2019-12-16 22:01:42,001 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:45,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:45,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:01:45 
+2019-12-16 22:01:45,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:48,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:48,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:01:48 
+2019-12-16 22:01:48,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:51,000 [17] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:51,001 [17] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:01:51 
+2019-12-16 22:01:51,001 [17] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:54,004 [17] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:54,009 [17] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:01:54 
+2019-12-16 22:01:54,012 [17] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:57,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:01:57,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:01:57 
+2019-12-16 22:01:57,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:00,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:00,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:02:00 
+2019-12-16 22:02:00,003 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:03,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:03,003 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:02:03 
+2019-12-16 22:02:03,004 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:06,000 [17] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:06,001 [17] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:02:06 
+2019-12-16 22:02:06,002 [17] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:09,000 [17] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:09,001 [17] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:02:09 
+2019-12-16 22:02:09,001 [17] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:12,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:12,003 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:02:12 
+2019-12-16 22:02:12,005 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:15,000 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:15,001 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:02:15 
+2019-12-16 22:02:15,002 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:18,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:18,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:02:18 
+2019-12-16 22:02:18,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:21,001 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:21,003 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:02:21 
+2019-12-16 22:02:21,004 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:24,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:24,001 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:02:24 
+2019-12-16 22:02:24,002 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:27,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:27,002 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:02:27 
+2019-12-16 22:02:27,002 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:30,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:30,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:02:30 
+2019-12-16 22:02:30,003 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:33,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:33,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:02:33 
+2019-12-16 22:02:33,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:36,000 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:36,001 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:02:36 
+2019-12-16 22:02:36,003 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:39,000 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:39,004 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:02:39 
+2019-12-16 22:02:39,007 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:42,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:42,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:02:42 
+2019-12-16 22:02:42,002 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:45,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:45,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:02:45 
+2019-12-16 22:02:45,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:48,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:48,002 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:02:48 
+2019-12-16 22:02:48,003 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:51,000 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:51,001 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:02:51 
+2019-12-16 22:02:51,002 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:54,000 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:54,001 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:02:54 
+2019-12-16 22:02:54,002 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:57,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:02:57,001 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:02:57 
+2019-12-16 22:02:57,001 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:00,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:00,002 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:03:00 
+2019-12-16 22:03:00,003 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:03,000 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:03,001 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:03:03 
+2019-12-16 22:03:03,002 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:06,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:06,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:03:06 
+2019-12-16 22:03:06,002 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:09,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:09,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:03:09 
+2019-12-16 22:03:09,004 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:12,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:12,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:03:12 
+2019-12-16 22:03:12,002 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:15,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:15,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:03:15 
+2019-12-16 22:03:15,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:18,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:18,001 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:03:18 
+2019-12-16 22:03:18,001 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:21,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:21,004 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:03:21 
+2019-12-16 22:03:21,005 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:24,000 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:24,001 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:03:24 
+2019-12-16 22:03:24,002 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:27,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:27,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:03:27 
+2019-12-16 22:03:27,002 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:30,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:30,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:03:30 
+2019-12-16 22:03:30,002 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:33,000 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:33,002 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:03:33 
+2019-12-16 22:03:33,003 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:36,000 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:36,001 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:03:36 
+2019-12-16 22:03:36,001 [16] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:39,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:39,001 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:03:39 
+2019-12-16 22:03:39,001 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:42,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:42,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:03:42 
+2019-12-16 22:03:42,002 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:45,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:45,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:03:45 
+2019-12-16 22:03:45,002 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:48,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:48,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:03:48 
+2019-12-16 22:03:48,002 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:51,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:51,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:03:51 
+2019-12-16 22:03:51,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:54,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:54,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:03:54 
+2019-12-16 22:03:54,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:57,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:03:57,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:03:57 
+2019-12-16 22:03:57,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:00,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:00,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:04:00 
+2019-12-16 22:04:00,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:03,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:03,002 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:04:03 
+2019-12-16 22:04:03,002 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:06,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:06,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:04:06 
+2019-12-16 22:04:06,002 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:09,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:09,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:04:09 
+2019-12-16 22:04:09,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:12,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:12,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:04:12 
+2019-12-16 22:04:12,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:15,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:15,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:04:15 
+2019-12-16 22:04:15,003 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:18,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:18,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:04:18 
+2019-12-16 22:04:18,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:21,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:21,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:04:21 
+2019-12-16 22:04:21,002 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:24,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:24,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:04:24 
+2019-12-16 22:04:24,002 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:27,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:27,002 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:04:27 
+2019-12-16 22:04:27,005 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:30,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:30,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:04:30 
+2019-12-16 22:04:30,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:33,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:33,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:04:33 
+2019-12-16 22:04:33,001 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:36,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:36,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:04:36 
+2019-12-16 22:04:36,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:39,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:39,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:04:39 
+2019-12-16 22:04:39,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:42,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:42,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:04:42 
+2019-12-16 22:04:42,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:45,035 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:45,036 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:04:45 
+2019-12-16 22:04:45,037 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:48,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:48,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:04:48 
+2019-12-16 22:04:48,001 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:51,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:51,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:04:51 
+2019-12-16 22:04:51,002 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:54,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:54,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:04:54 
+2019-12-16 22:04:54,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:57,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:04:57,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:04:57 
+2019-12-16 22:04:57,002 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:00,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:00,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:05:00 
+2019-12-16 22:05:00,002 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:03,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:03,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:05:03 
+2019-12-16 22:05:03,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:06,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:06,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:05:06 
+2019-12-16 22:05:06,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:09,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:09,003 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:05:09 
+2019-12-16 22:05:09,005 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:12,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:12,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:05:12 
+2019-12-16 22:05:12,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:15,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:15,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:05:15 
+2019-12-16 22:05:15,001 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:18,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:18,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:05:18 
+2019-12-16 22:05:18,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:21,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:21,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:05:21 
+2019-12-16 22:05:21,001 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:24,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:24,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:05:24 
+2019-12-16 22:05:24,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:27,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:27,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:05:27 
+2019-12-16 22:05:27,001 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:30,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:30,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:05:30 
+2019-12-16 22:05:30,001 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:33,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:33,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:05:33 
+2019-12-16 22:05:33,001 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:36,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:36,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:05:36 
+2019-12-16 22:05:36,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:39,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:39,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:05:39 
+2019-12-16 22:05:39,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:42,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:42,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:05:42 
+2019-12-16 22:05:42,001 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:45,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:45,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:05:45 
+2019-12-16 22:05:45,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:48,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:48,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:05:48 
+2019-12-16 22:05:48,001 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:51,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:51,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:05:51 
+2019-12-16 22:05:51,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:54,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:54,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:05:54 
+2019-12-16 22:05:54,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:57,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:05:57,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:05:57 
+2019-12-16 22:05:57,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:00,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:00,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:06:00 
+2019-12-16 22:06:00,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:03,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:03,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:06:03 
+2019-12-16 22:06:03,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:06,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:06,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:06:06 
+2019-12-16 22:06:06,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:09,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:09,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:06:09 
+2019-12-16 22:06:09,001 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:12,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:12,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:06:12 
+2019-12-16 22:06:12,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:15,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:15,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:06:15 
+2019-12-16 22:06:15,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:18,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:18,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:06:18 
+2019-12-16 22:06:18,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:21,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:21,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:06:21 
+2019-12-16 22:06:21,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:24,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:24,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:06:24 
+2019-12-16 22:06:24,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:27,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:27,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:06:27 
+2019-12-16 22:06:27,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:30,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:30,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:06:30 
+2019-12-16 22:06:30,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:33,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:33,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:06:33 
+2019-12-16 22:06:33,001 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:36,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:36,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:06:36 
+2019-12-16 22:06:36,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:39,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:39,002 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:06:39 
+2019-12-16 22:06:39,002 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:42,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:42,002 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:06:42 
+2019-12-16 22:06:42,005 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:45,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:45,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:06:45 
+2019-12-16 22:06:45,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:48,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:48,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:06:48 
+2019-12-16 22:06:48,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:51,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:51,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:06:51 
+2019-12-16 22:06:51,002 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:54,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:54,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:06:54 
+2019-12-16 22:06:54,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:57,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:06:57,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:06:57 
+2019-12-16 22:06:57,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:00,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:00,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:07:00 
+2019-12-16 22:07:00,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:03,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:03,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:07:03 
+2019-12-16 22:07:03,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:06,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:06,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:07:06 
+2019-12-16 22:07:06,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:09,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:09,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:07:09 
+2019-12-16 22:07:09,001 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:12,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:12,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:07:12 
+2019-12-16 22:07:12,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:15,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:15,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:07:15 
+2019-12-16 22:07:15,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:18,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:18,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:07:18 
+2019-12-16 22:07:18,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:21,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:21,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:07:21 
+2019-12-16 22:07:21,001 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:24,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:24,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:07:24 
+2019-12-16 22:07:24,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:27,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:27,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:07:27 
+2019-12-16 22:07:27,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:30,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:30,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:07:30 
+2019-12-16 22:07:30,002 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:33,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:33,002 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:07:33 
+2019-12-16 22:07:33,004 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:36,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:36,004 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:07:36 
+2019-12-16 22:07:36,006 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:39,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:39,003 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:07:39 
+2019-12-16 22:07:39,005 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:42,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:42,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:07:42 
+2019-12-16 22:07:42,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:45,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:45,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:07:45 
+2019-12-16 22:07:45,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:48,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:48,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:07:48 
+2019-12-16 22:07:48,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:51,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:51,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:07:51 
+2019-12-16 22:07:51,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:54,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:54,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:07:54 
+2019-12-16 22:07:54,000 [20] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:57,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:07:57,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:07:57 
+2019-12-16 22:07:57,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:00,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:00,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:08:00 
+2019-12-16 22:08:00,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:03,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:03,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:08:03 
+2019-12-16 22:08:03,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:06,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:06,003 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:08:06 
+2019-12-16 22:08:06,005 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:09,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:09,002 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:08:09 
+2019-12-16 22:08:09,003 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:12,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:12,002 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:08:12 
+2019-12-16 22:08:12,003 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:15,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:15,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:08:15 
+2019-12-16 22:08:15,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:18,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:18,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:08:18 
+2019-12-16 22:08:18,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:21,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:21,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:08:21 
+2019-12-16 22:08:21,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:24,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:24,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:08:24 
+2019-12-16 22:08:24,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:27,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:27,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:08:27 
+2019-12-16 22:08:27,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:30,000 [4] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:30,000 [4] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:08:30 
+2019-12-16 22:08:30,001 [4] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:33,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:33,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:08:33 
+2019-12-16 22:08:33,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:36,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:36,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:08:36 
+2019-12-16 22:08:36,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:39,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:39,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:08:39 
+2019-12-16 22:08:39,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:42,000 [4] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:42,000 [4] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:08:42 
+2019-12-16 22:08:42,001 [4] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:45,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:45,000 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:08:45 
+2019-12-16 22:08:45,001 [9] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:48,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:48,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:08:48 
+2019-12-16 22:08:48,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:51,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:51,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:08:51 
+2019-12-16 22:08:51,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:54,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:54,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:08:54 
+2019-12-16 22:08:54,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:57,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:08:57,002 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:08:57 
+2019-12-16 22:08:57,004 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:00,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:00,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:09:00 
+2019-12-16 22:09:00,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:03,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:03,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:09:03 
+2019-12-16 22:09:03,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:06,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:06,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:09:06 
+2019-12-16 22:09:06,001 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:09,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:09,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:09:09 
+2019-12-16 22:09:09,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:12,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:12,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:09:12 
+2019-12-16 22:09:12,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:15,000 [4] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:15,000 [4] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:09:15 
+2019-12-16 22:09:15,001 [4] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:18,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:18,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:09:18 
+2019-12-16 22:09:18,003 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:21,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:21,003 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:09:21 
+2019-12-16 22:09:21,005 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:24,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:24,000 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:09:24 
+2019-12-16 22:09:24,001 [13] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:27,000 [18] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:27,000 [18] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:09:27 
+2019-12-16 22:09:27,000 [18] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:30,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:30,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:09:30 
+2019-12-16 22:09:30,001 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:33,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:33,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:09:33 
+2019-12-16 22:09:33,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:36,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:36,003 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:09:36 
+2019-12-16 22:09:36,004 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:39,000 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:39,002 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:09:39 
+2019-12-16 22:09:39,004 [8] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:42,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:42,000 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:09:42 
+2019-12-16 22:09:42,001 [15] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:45,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:45,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:09:45 
+2019-12-16 22:09:45,001 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:48,000 [18] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:48,002 [18] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:09:48 
+2019-12-16 22:09:48,005 [18] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:51,000 [18] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:51,000 [18] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:09:51 
+2019-12-16 22:09:51,001 [18] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:54,000 [18] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:54,000 [18] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:09:54 
+2019-12-16 22:09:54,001 [18] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:57,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:09:57,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:09:57 
+2019-12-16 22:09:57,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:10:00,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:10:00,001 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:10:00 
+2019-12-16 22:10:00,001 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:10:03,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:10:03,000 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:10:03 
+2019-12-16 22:10:03,001 [10] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:10:06,000 [18] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:10:06,000 [18] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:10:06 
+2019-12-16 22:10:06,000 [18] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:10:09,000 [17] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:10:09,000 [17] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:10:09 
+2019-12-16 22:10:09,001 [17] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:10:12,000 [18] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:10:12,000 [18] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:10:12 
+2019-12-16 22:10:12,000 [18] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:10:15,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:10:15,000 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:10:15 
+2019-12-16 22:10:15,001 [12] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:10:18,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:10:18,000 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:10:18 
+2019-12-16 22:10:18,001 [11] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:10:21,000 [18] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:10:21,000 [18] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - 大家好！ 欢迎大家来到.Net高级班的Vip课程！2019/12/16 22:10:21 
+2019-12-16 22:10:21,001 [18] INFO  DispatcherProject.QuartzNet.CustomJob.SayHIJob - ******************************************
+2019-12-16 22:10:22,158 [15] INFO  MyDispatcherProjectRichardWindowsService.Service1 - Service1  is Stop

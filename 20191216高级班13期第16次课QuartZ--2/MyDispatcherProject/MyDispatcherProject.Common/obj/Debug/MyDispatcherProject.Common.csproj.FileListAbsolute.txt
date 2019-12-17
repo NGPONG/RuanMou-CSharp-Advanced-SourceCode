@@ -1,0 +1,7 @@
+D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProject.Common\bin\Debug\MyDispatcherProject.Common.dll
+D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProject.Common\bin\Debug\MyDispatcherProject.Common.pdb
+D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProject.Common\bin\Debug\log4net.dll
+D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProject.Common\bin\Debug\log4net.xml
+D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProject.Common\obj\Debug\MyDispatcherProject.Common.csproj.CopyComplete
+D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProject.Common\obj\Debug\MyDispatcherProject.Common.dll
+D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProject.Common\obj\Debug\MyDispatcherProject.Common.pdb

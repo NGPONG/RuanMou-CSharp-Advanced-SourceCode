@@ -1,0 +1,3 @@
+1 封装&继承&多态理解
+2 重写overwrite(new)  覆写override 重载overload
+3 抽象类&接口理解和选择

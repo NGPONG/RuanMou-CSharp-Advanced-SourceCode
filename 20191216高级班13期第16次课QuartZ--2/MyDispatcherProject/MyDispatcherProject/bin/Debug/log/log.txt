@@ -1,0 +1,2 @@
+2019-12-16 19:58:32,132 [1] INFO  MyDispatcherProject.Common.Log4NetLogger - 系统初始化Logger模块
+2019-12-16 19:58:32,159 [1] INFO  MyDispatcherProject.CustomSchedulingTask - this is test

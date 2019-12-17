@@ -1,0 +1,64 @@
+﻿正在安装程序集“D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProjectRichardWindowsService\bin\Debug\MyDispatcherProjectRichardWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProjectRichardWindowsService\bin\Debug\MyDispatcherProjectRichardWindowsService.InstallLog
+   assemblypath = D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProjectRichardWindowsService\bin\Debug\MyDispatcherProjectRichardWindowsService.exe
+正在安装服务 JerryWindowsService...
+已成功安装服务 JerryWindowsService。
+正在日志 Application 中创建 EventLog 源 JerryWindowsService...
+正在提交程序集“D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProjectRichardWindowsService\bin\Debug\MyDispatcherProjectRichardWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProjectRichardWindowsService\bin\Debug\MyDispatcherProjectRichardWindowsService.InstallLog
+   assemblypath = D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProjectRichardWindowsService\bin\Debug\MyDispatcherProjectRichardWindowsService.exe
+正在卸载程序集“D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProjectRichardWindowsService\bin\Debug\MyDispatcherProjectRichardWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProjectRichardWindowsService\bin\Debug\MyDispatcherProjectRichardWindowsService.InstallLog
+   assemblypath = D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProjectRichardWindowsService\bin\Debug\MyDispatcherProjectRichardWindowsService.exe
+正在移除 EventLog 源 JerryWindowsService。
+正在从系统中移除服务 JerryWindowsService...
+已成功地从系统中移除服务 JerryWindowsService。
+尝试停止服务 JerryWindowsService。
+正在安装程序集“D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProjectRichardWindowsService\bin\Debug\MyDispatcherProjectRichardWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProjectRichardWindowsService\bin\Debug\MyDispatcherProjectRichardWindowsService.InstallLog
+   assemblypath = D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProjectRichardWindowsService\bin\Debug\MyDispatcherProjectRichardWindowsService.exe
+正在安装服务 JerryWindowsService...
+已成功安装服务 JerryWindowsService。
+正在日志 Application 中创建 EventLog 源 JerryWindowsService...
+正在提交程序集“D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProjectRichardWindowsService\bin\Debug\MyDispatcherProjectRichardWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProjectRichardWindowsService\bin\Debug\MyDispatcherProjectRichardWindowsService.InstallLog
+   assemblypath = D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProjectRichardWindowsService\bin\Debug\MyDispatcherProjectRichardWindowsService.exe
+正在卸载程序集“D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProjectRichardWindowsService\bin\Debug\MyDispatcherProjectRichardWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProjectRichardWindowsService\bin\Debug\MyDispatcherProjectRichardWindowsService.InstallLog
+   assemblypath = D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProjectRichardWindowsService\bin\Debug\MyDispatcherProjectRichardWindowsService.exe
+正在移除 EventLog 源 JerryWindowsService。
+正在从系统中移除服务 JerryWindowsService...
+已成功地从系统中移除服务 JerryWindowsService。
+正在安装程序集“D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProjectRichardWindowsService\bin\Debug\MyDispatcherProjectRichardWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProjectRichardWindowsService\bin\Debug\MyDispatcherProjectRichardWindowsService.InstallLog
+   assemblypath = D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProjectRichardWindowsService\bin\Debug\MyDispatcherProjectRichardWindowsService.exe
+正在安装服务 JerryWindowsService...
+已成功安装服务 JerryWindowsService。
+正在日志 Application 中创建 EventLog 源 JerryWindowsService...
+正在提交程序集“D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProjectRichardWindowsService\bin\Debug\MyDispatcherProjectRichardWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProjectRichardWindowsService\bin\Debug\MyDispatcherProjectRichardWindowsService.InstallLog
+   assemblypath = D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProjectRichardWindowsService\bin\Debug\MyDispatcherProjectRichardWindowsService.exe
+正在卸载程序集“D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProjectRichardWindowsService\bin\Debug\MyDispatcherProjectRichardWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProjectRichardWindowsService\bin\Debug\MyDispatcherProjectRichardWindowsService.InstallLog
+   assemblypath = D:\Ruanmou\Advanced13Encrypt\20191216高级班13期第16次课QuartZ--2\New\MyDispatcherProject\MyDispatcherProjectRichardWindowsService\bin\Debug\MyDispatcherProjectRichardWindowsService.exe
+正在移除 EventLog 源 JerryWindowsService。
+正在从系统中移除服务 JerryWindowsService...
+已成功地从系统中移除服务 JerryWindowsService。

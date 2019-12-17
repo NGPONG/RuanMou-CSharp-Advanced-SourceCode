@@ -1,0 +1,13 @@
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.ThreeFactory\bin\Debug\OOP.DesignerPattern.ThreeFactory.exe.config
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.ThreeFactory\bin\Debug\OOP.DesignerPattern.ThreeFactory.exe
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.ThreeFactory\bin\Debug\OOP.DesignerPattern.ThreeFactory.pdb
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.ThreeFactory\bin\Debug\FactoryPattern.War3.Interface.dll
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.ThreeFactory\bin\Debug\FactoryPattern.War3.Service.dll
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.ThreeFactory\bin\Debug\FactoryPattern.War3.ServiceExtend.dll
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.ThreeFactory\bin\Debug\FactoryPattern.War3.Interface.pdb
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.ThreeFactory\bin\Debug\FactoryPattern.War3.ServiceExtend.pdb
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.ThreeFactory\bin\Debug\FactoryPattern.War3.Service.pdb
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.ThreeFactory\obj\Debug\OOP.DesignerPattern.ThreeFactory.csprojAssemblyReference.cache
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.ThreeFactory\obj\Debug\OOP.DesignerPattern.ThreeFactory.csproj.CopyComplete
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.ThreeFactory\obj\Debug\OOP.DesignerPattern.ThreeFactory.exe
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.ThreeFactory\obj\Debug\OOP.DesignerPattern.ThreeFactory.pdb

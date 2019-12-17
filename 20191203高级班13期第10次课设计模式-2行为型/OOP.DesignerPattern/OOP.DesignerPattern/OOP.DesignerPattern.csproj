@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OOP.DesignerPattern.AdapterPattern\OOP.DesignerPattern.AdapterPattern.csproj" />
+    <ProjectReference Include="..\OOP.DesignerPattern.DecoratorPattern\OOP.DesignerPattern.DecoratorPattern.csproj" />
+    <ProjectReference Include="..\OOP.DesignerPattern.ObserverPattern\OOP.DesignerPattern.ObserverPattern.csproj" />
+    <ProjectReference Include="..\OOP.DesignerPattern.ProxyPattern\OOP.DesignerPattern.ProxyPattern.csproj" />
+    <ProjectReference Include="..\OOP.DesignerPattern.ResponsibilityChainPattern\OOP.DesignerPattern.ResponsibilityChainPattern.csproj" />
+    <ProjectReference Include="..\OOP.DesignerPattern.TemplateMethodPattern\OOP.DesignerPattern.TemplateMethodPattern.csproj" />
+  </ItemGroup>
+
+</Project>

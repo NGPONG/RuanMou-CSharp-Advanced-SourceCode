@@ -1,0 +1,15 @@
+D:\ruanmou\online13\20191203高级班13期第10次课设计模式-2行为型\OOP.DesignerPattern\OOP.DesignerPattern.TemplateMethodPattern\bin\Debug\netcoreapp3.0\OOP.DesignerPattern.TemplateMethodPattern.deps.json
+D:\ruanmou\online13\20191203高级班13期第10次课设计模式-2行为型\OOP.DesignerPattern\OOP.DesignerPattern.TemplateMethodPattern\bin\Debug\netcoreapp3.0\OOP.DesignerPattern.TemplateMethodPattern.dll
+D:\ruanmou\online13\20191203高级班13期第10次课设计模式-2行为型\OOP.DesignerPattern\OOP.DesignerPattern.TemplateMethodPattern\bin\Debug\netcoreapp3.0\OOP.DesignerPattern.TemplateMethodPattern.pdb
+D:\ruanmou\online13\20191203高级班13期第10次课设计模式-2行为型\OOP.DesignerPattern\OOP.DesignerPattern.TemplateMethodPattern\obj\Debug\netcoreapp3.0\OOP.DesignerPattern.TemplateMethodPattern.csprojAssemblyReference.cache
+D:\ruanmou\online13\20191203高级班13期第10次课设计模式-2行为型\OOP.DesignerPattern\OOP.DesignerPattern.TemplateMethodPattern\obj\Debug\netcoreapp3.0\OOP.DesignerPattern.TemplateMethodPattern.AssemblyInfoInputs.cache
+D:\ruanmou\online13\20191203高级班13期第10次课设计模式-2行为型\OOP.DesignerPattern\OOP.DesignerPattern.TemplateMethodPattern\obj\Debug\netcoreapp3.0\OOP.DesignerPattern.TemplateMethodPattern.AssemblyInfo.cs
+D:\ruanmou\online13\20191203高级班13期第10次课设计模式-2行为型\OOP.DesignerPattern\OOP.DesignerPattern.TemplateMethodPattern\obj\Debug\netcoreapp3.0\OOP.DesignerPattern.TemplateMethodPattern.dll
+D:\ruanmou\online13\20191203高级班13期第10次课设计模式-2行为型\OOP.DesignerPattern\OOP.DesignerPattern.TemplateMethodPattern\obj\Debug\netcoreapp3.0\OOP.DesignerPattern.TemplateMethodPattern.pdb
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.TemplateMethodPattern\bin\Debug\netcoreapp3.0\OOP.DesignerPattern.TemplateMethodPattern.deps.json
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.TemplateMethodPattern\bin\Debug\netcoreapp3.0\OOP.DesignerPattern.TemplateMethodPattern.dll
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.TemplateMethodPattern\bin\Debug\netcoreapp3.0\OOP.DesignerPattern.TemplateMethodPattern.pdb
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.TemplateMethodPattern\obj\Debug\netcoreapp3.0\OOP.DesignerPattern.TemplateMethodPattern.AssemblyInfoInputs.cache
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.TemplateMethodPattern\obj\Debug\netcoreapp3.0\OOP.DesignerPattern.TemplateMethodPattern.AssemblyInfo.cs
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.TemplateMethodPattern\obj\Debug\netcoreapp3.0\OOP.DesignerPattern.TemplateMethodPattern.dll
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.TemplateMethodPattern\obj\Debug\netcoreapp3.0\OOP.DesignerPattern.TemplateMethodPattern.pdb

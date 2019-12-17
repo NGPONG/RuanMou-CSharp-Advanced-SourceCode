@@ -1,0 +1,10 @@
+D:\软谋教育\Ruanmou\Advanced13Encrypt\20191024高级班13期第5次课程（委托）-2\20191024高级班13期第5次课程（委托）-2\MyDelegateEvent\MyWinform\bin\Debug\MyWinform.exe.config
+D:\软谋教育\Ruanmou\Advanced13Encrypt\20191024高级班13期第5次课程（委托）-2\20191024高级班13期第5次课程（委托）-2\MyDelegateEvent\MyWinform\bin\Debug\MyWinform.exe
+D:\软谋教育\Ruanmou\Advanced13Encrypt\20191024高级班13期第5次课程（委托）-2\20191024高级班13期第5次课程（委托）-2\MyDelegateEvent\MyWinform\bin\Debug\MyWinform.pdb
+D:\软谋教育\Ruanmou\Advanced13Encrypt\20191024高级班13期第5次课程（委托）-2\20191024高级班13期第5次课程（委托）-2\MyDelegateEvent\MyWinform\obj\Debug\MyWinform.csprojAssemblyReference.cache
+D:\软谋教育\Ruanmou\Advanced13Encrypt\20191024高级班13期第5次课程（委托）-2\20191024高级班13期第5次课程（委托）-2\MyDelegateEvent\MyWinform\obj\Debug\MyWinform.Form1.resources
+D:\软谋教育\Ruanmou\Advanced13Encrypt\20191024高级班13期第5次课程（委托）-2\20191024高级班13期第5次课程（委托）-2\MyDelegateEvent\MyWinform\obj\Debug\MyWinform.Properties.Resources.resources
+D:\软谋教育\Ruanmou\Advanced13Encrypt\20191024高级班13期第5次课程（委托）-2\20191024高级班13期第5次课程（委托）-2\MyDelegateEvent\MyWinform\obj\Debug\MyWinform.csproj.GenerateResource.cache
+D:\软谋教育\Ruanmou\Advanced13Encrypt\20191024高级班13期第5次课程（委托）-2\20191024高级班13期第5次课程（委托）-2\MyDelegateEvent\MyWinform\obj\Debug\MyWinform.csproj.CoreCompileInputs.cache
+D:\软谋教育\Ruanmou\Advanced13Encrypt\20191024高级班13期第5次课程（委托）-2\20191024高级班13期第5次课程（委托）-2\MyDelegateEvent\MyWinform\obj\Debug\MyWinform.exe
+D:\软谋教育\Ruanmou\Advanced13Encrypt\20191024高级班13期第5次课程（委托）-2\20191024高级班13期第5次课程（委托）-2\MyDelegateEvent\MyWinform\obj\Debug\MyWinform.pdb

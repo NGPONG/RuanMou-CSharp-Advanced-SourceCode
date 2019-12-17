@@ -1,0 +1,16 @@
+D:\ruanmou\online13\20191202高级班13期第10次课设计模式-1结构型\OOP.DesignerPattern\OOP.DesignerPattern.AdapterPattern\obj\Debug\netcoreapp3.0\OOP.DesignerPattern.AdapterPattern.AssemblyInfoInputs.cache
+D:\ruanmou\online13\20191202高级班13期第10次课设计模式-1结构型\OOP.DesignerPattern\OOP.DesignerPattern.AdapterPattern\obj\Debug\netcoreapp3.0\OOP.DesignerPattern.AdapterPattern.AssemblyInfo.cs
+D:\ruanmou\online13\20191202高级班13期第10次课设计模式-1结构型\OOP.DesignerPattern\OOP.DesignerPattern.AdapterPattern\bin\Debug\netcoreapp3.0\OOP.DesignerPattern.AdapterPattern.deps.json
+D:\ruanmou\online13\20191202高级班13期第10次课设计模式-1结构型\OOP.DesignerPattern\OOP.DesignerPattern.AdapterPattern\bin\Debug\netcoreapp3.0\OOP.DesignerPattern.AdapterPattern.dll
+D:\ruanmou\online13\20191202高级班13期第10次课设计模式-1结构型\OOP.DesignerPattern\OOP.DesignerPattern.AdapterPattern\bin\Debug\netcoreapp3.0\OOP.DesignerPattern.AdapterPattern.pdb
+D:\ruanmou\online13\20191202高级班13期第10次课设计模式-1结构型\OOP.DesignerPattern\OOP.DesignerPattern.AdapterPattern\obj\Debug\netcoreapp3.0\OOP.DesignerPattern.AdapterPattern.dll
+D:\ruanmou\online13\20191202高级班13期第10次课设计模式-1结构型\OOP.DesignerPattern\OOP.DesignerPattern.AdapterPattern\obj\Debug\netcoreapp3.0\OOP.DesignerPattern.AdapterPattern.pdb
+D:\ruanmou\online13\20191202高级班13期第10次课设计模式-1结构型\OOP.DesignerPattern\OOP.DesignerPattern.AdapterPattern\obj\Debug\netcoreapp3.0\OOP.DesignerPattern.AdapterPattern.csprojAssemblyReference.cache
+D:\ruanmou\online13\20191203高级班13期第10次课设计模式-2行为型\OOP.DesignerPattern\OOP.DesignerPattern.AdapterPattern\bin\Debug\netcoreapp3.0\OOP.DesignerPattern.AdapterPattern.deps.json
+D:\ruanmou\online13\20191203高级班13期第10次课设计模式-2行为型\OOP.DesignerPattern\OOP.DesignerPattern.AdapterPattern\bin\Debug\netcoreapp3.0\OOP.DesignerPattern.AdapterPattern.dll
+D:\ruanmou\online13\20191203高级班13期第10次课设计模式-2行为型\OOP.DesignerPattern\OOP.DesignerPattern.AdapterPattern\bin\Debug\netcoreapp3.0\OOP.DesignerPattern.AdapterPattern.pdb
+D:\ruanmou\online13\20191203高级班13期第10次课设计模式-2行为型\OOP.DesignerPattern\OOP.DesignerPattern.AdapterPattern\obj\Debug\netcoreapp3.0\OOP.DesignerPattern.AdapterPattern.csprojAssemblyReference.cache
+D:\ruanmou\online13\20191203高级班13期第10次课设计模式-2行为型\OOP.DesignerPattern\OOP.DesignerPattern.AdapterPattern\obj\Debug\netcoreapp3.0\OOP.DesignerPattern.AdapterPattern.AssemblyInfoInputs.cache
+D:\ruanmou\online13\20191203高级班13期第10次课设计模式-2行为型\OOP.DesignerPattern\OOP.DesignerPattern.AdapterPattern\obj\Debug\netcoreapp3.0\OOP.DesignerPattern.AdapterPattern.AssemblyInfo.cs
+D:\ruanmou\online13\20191203高级班13期第10次课设计模式-2行为型\OOP.DesignerPattern\OOP.DesignerPattern.AdapterPattern\obj\Debug\netcoreapp3.0\OOP.DesignerPattern.AdapterPattern.dll
+D:\ruanmou\online13\20191203高级班13期第10次课设计模式-2行为型\OOP.DesignerPattern\OOP.DesignerPattern.AdapterPattern\obj\Debug\netcoreapp3.0\OOP.DesignerPattern.AdapterPattern.pdb

@@ -1,0 +1,11 @@
+1.  单一职责原则（Single Responsibility Principle）
+2.  里氏替换原则（Liskov Substitution Principle）
+3.  依赖倒置原则（Dependence Inversion Principle）
+4.  接口隔离原则（Interface Segregation Principle）
+5.  迪米特法则  （Law Of Demeter）
+6： 开闭原则     (Open Closed Principle)
+
+本次课
+1.  单一职责原则（Single Responsibility Principle）
+2.  里氏替换原则（Liskov Substitution Principle）
+5.  迪米特法则  （Law Of Demeter）

@@ -1,0 +1,155 @@
+////////////////////////////////////////////////////////////////////////////////
+// v0.9.1 - 30-04-2009 /////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+  news:
+    - check if .NET Framework v3.5 is installed
+
+  bugfixes:
+    - some debug code was left, causing errors to users without "c:" drive.
+    
+  misc:
+    - source code cleanup
+  
+////////////////////////////////////////////////////////////////////////////////
+// v0.9 - 01-28-2009 ///////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+  news:
+    - instruction offset column
+    - code editor intellisense 
+    - region folding
+    - insight window
+    
+  bugfixes:
+    - assembly browser was only listening to mouse events
+    - fix combobox rendering errors without visual themes
+    
+  misc:
+    - source code cleanup
+  
+////////////////////////////////////////////////////////////////////////////////
+// v0.8 - 05-25-2008 ///////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+  news:
+    - assembly reference editor (name, version, public key, token, hash) 
+    - assembly name editor (entry point, assembly kind, framework version, name,
+      version, public key, token) 
+    
+  upgrades:
+    - 'unsafe' code generation support
+    - reflector item handler
+    
+  bugfixes:
+    - field reference fix after code injection
+    - forms tabindexes
+  
+////////////////////////////////////////////////////////////////////////////////
+// v0.7 - 01-17-2008 ///////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+  news:
+    - type attributes editor (sealed, semantic, layout, string format,
+      visibility, ...) 
+    - strong name remover
+
+  upgrades:
+    - sn.exe registry keys with framework 3.5
+    - C# / VB.NET code generator
+    
+  bugfixes:
+    - static field code generation
+    - VB.NET 'Single' type alias code generation
+    - C# / VB.NET keywords used as field/method/parameter names
+    - main window flicker fix
+
+////////////////////////////////////////////////////////////////////////////////
+// v0.6 - 10-30-2007 ///////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+  news:
+    - symbol loading support (pdb and mdb)
+    - method attributes editor (member access, vtable layout, code type,
+      managment, calling convention, return type) -> so you can change a method
+      visibility
+    - parameter editor -> so you can change a method signature
+    - variable editor
+
+  upgrades:
+    - multiple selection support in grids
+    - method RVA tooltip in grids
+    - assembly / method definition cache system
+
+  bugfixes:
+    - namespaces with type browser
+    - pointer type matching
+    - method matching
+    - generic type matching
+    - remoting timeout with compilation window
+    - Mono.Cecil import context update
+    - VB.NET arrays
+    - unsafe C# compilation setting
+    - prevent "insert after/insert before" when a list is empty
+    
+////////////////////////////////////////////////////////////////////////////////
+// v0.5 - 09-14-2007 ///////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+  news:
+    - VB.NET code injection
+    - binary, octal, hexadecimal, decimal base support.
+    - configuration form
+
+  upgrades:
+    - code injection is no more 'context-free': type, fields and methods can
+      be referenced, and are automaticaly mapped to original items.
+    - scroll positions are now saved when creating/updating/deleting
+      instructions or exception handlers
+
+  bugfixes:
+    - injection code works even if the library is not in the same folder than 
+      Reflector.
+    - sn.exe (strong name utility) is correctly located even if PATH variable
+      contains quotes.
+
+////////////////////////////////////////////////////////////////////////////////
+// v0.4 - 08-29-2007 ///////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+  news:
+    - exception handlers support.
+    - exception handler drag&drop.
+    - signed assembly support.
+
+  upgrades:
+    - Reflector bug report is sent to reflexil mailbox.
+
+  bugfixes:
+    - using non CLI images with Reflector.
+
+////////////////////////////////////////////////////////////////////////////////
+// v0.3 - 07-20-2007 ///////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+  news:
+    - instruction drag&drop.
+    - delete all instructions.
+    - C# code injection (preliminary support).
+
+  upgrades:
+    - opcodes autocomplete.
+
+////////////////////////////////////////////////////////////////////////////////
+// v0.2 - 07-08-2007 ///////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+  news:
+		- editors: type, method or field references.
+
+  upgrades:
+		- instruction edit form with opcodes descriptions (and grid tooltips).
+
+////////////////////////////////////////////////////////////////////////////////
+// v0.1 - 07-02-2007 ///////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////

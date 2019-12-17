@@ -1,0 +1,8 @@
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.SingletonPattern\bin\Debug\netcoreapp3.0\OOP.DesignerPattern.SingletonPattern.deps.json
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.SingletonPattern\bin\Debug\netcoreapp3.0\OOP.DesignerPattern.SingletonPattern.dll
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.SingletonPattern\bin\Debug\netcoreapp3.0\OOP.DesignerPattern.SingletonPattern.pdb
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.SingletonPattern\obj\Debug\netcoreapp3.0\OOP.DesignerPattern.SingletonPattern.AssemblyInfoInputs.cache
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.SingletonPattern\obj\Debug\netcoreapp3.0\OOP.DesignerPattern.SingletonPattern.AssemblyInfo.cs
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.SingletonPattern\obj\Debug\netcoreapp3.0\OOP.DesignerPattern.SingletonPattern.dll
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.SingletonPattern\obj\Debug\netcoreapp3.0\OOP.DesignerPattern.SingletonPattern.pdb
+D:\ruanmou\online13\20191204高级班13期第10次课设计模式-3创建型\OOP.DesignerPattern\OOP.DesignerPattern.SingletonPattern\obj\Debug\netcoreapp3.0\OOP.DesignerPattern.SingletonPattern.csprojAssemblyReference.cache

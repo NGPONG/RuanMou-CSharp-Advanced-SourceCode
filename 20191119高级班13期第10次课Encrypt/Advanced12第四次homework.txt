@@ -1,0 +1,39 @@
+主要是练习表达式目录树：
+
+
+1  第二次作业中，将增删改的方法都完成,生成的sql用泛型缓存一下，使用参数化，包括委托封装Ado.Net；
+
+2  将DataReader到实体的转换，换成基于表达式目录树方式转换，然后泛型缓存起来使用；
+
+3  提供支持表达式树的查询   Query<T>(Expression<Func<T, bool>> predicate) 
+   支持表达式树的按条件批量 Delete<T>(Expression<Func<T, bool>> predicate)
+   
+4  查询数据来的数据列表，尝试下Where Select Take TakeWhile Skip SKipWhere OrderBy OrderByDescending ThenBy ThenByDescending
+   Join  GroupBy  Distinct  Union Min Max Average Sum First FirstOrDefault扩展方法Linq to Object
+                               
+5  支持表达式树的按条件批量Update<T>(Expression<Func<T, bool>> predicate,Action<T> updateAction)
+ 
+
+6  目前课程中只支持了StartsWith  Contains  EndsWith，，
+   试试Equals,In等查询 （Substring） 
+
+7  在项目里合适的地方都记录上文本日志
+
+8  (扩展作业)(都可以尝试下参数化)用表达式树去完成一些自己的想法，给老师一点灵感
+
+
+
+
+
+作业要求发到邮箱：57265177@qq.com
+
+作业用压缩包的形式发给我，压缩包名称命名以群里的昵称开头，然后有更新的话，在昵称后面加上_update1这样子
+第一次提交是：   1258-烧锅开水-男-重庆_homework_第一周.rar
+第二次提交是：   1258-烧锅开水-男-重庆_homework_第一周_Update1.rar
+第三次提交是：   1258-烧锅开水-男-重庆_homework_第一周_Update2.rar
+
+压缩包中希望包含作业说明文档，可以是完成过程中的问题、思路、解决方案、学习感悟、笔记都可以了，，
+如果作业有更新，则必须把更新的内容写入文档
+
+
+然后越早交作业的  老师会单独批改，一对一指导，不限时间了。。。

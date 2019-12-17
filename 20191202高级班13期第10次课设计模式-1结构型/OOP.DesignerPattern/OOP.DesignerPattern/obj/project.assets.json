@@ -1,0 +1,130 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "OOP.DesignerPattern.AdapterPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/OOP.DesignerPattern.AdapterPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OOP.DesignerPattern.AdapterPattern.dll": {}
+        }
+      },
+      "OOP.DesignerPattern.DecoratorPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/OOP.DesignerPattern.DecoratorPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OOP.DesignerPattern.DecoratorPattern.dll": {}
+        }
+      },
+      "OOP.DesignerPattern.ProxyPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/OOP.DesignerPattern.ProxyPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OOP.DesignerPattern.ProxyPattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP.DesignerPattern.AdapterPattern/1.0.0": {
+      "type": "project",
+      "path": "../OOP.DesignerPattern.AdapterPattern/OOP.DesignerPattern.AdapterPattern.csproj",
+      "msbuildProject": "../OOP.DesignerPattern.AdapterPattern/OOP.DesignerPattern.AdapterPattern.csproj"
+    },
+    "OOP.DesignerPattern.DecoratorPattern/1.0.0": {
+      "type": "project",
+      "path": "../OOP.DesignerPattern.DecoratorPattern/OOP.DesignerPattern.DecoratorPattern.csproj",
+      "msbuildProject": "../OOP.DesignerPattern.DecoratorPattern/OOP.DesignerPattern.DecoratorPattern.csproj"
+    },
+    "OOP.DesignerPattern.ProxyPattern/1.0.0": {
+      "type": "project",
+      "path": "../OOP.DesignerPattern.ProxyPattern/OOP.DesignerPattern.ProxyPattern.csproj",
+      "msbuildProject": "../OOP.DesignerPattern.ProxyPattern/OOP.DesignerPattern.ProxyPattern.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "OOP.DesignerPattern.AdapterPattern >= 1.0.0",
+      "OOP.DesignerPattern.DecoratorPattern >= 1.0.0",
+      "OOP.DesignerPattern.ProxyPattern >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\LENOVO\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\ruanmou\\online13\\20191202高级班13期第10次课设计模式-1结构型\\OOP.DesignerPattern\\OOP.DesignerPattern\\OOP.DesignerPattern.csproj",
+      "projectName": "OOP.DesignerPattern",
+      "projectPath": "D:\\ruanmou\\online13\\20191202高级班13期第10次课设计模式-1结构型\\OOP.DesignerPattern\\OOP.DesignerPattern\\OOP.DesignerPattern.csproj",
+      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+      "outputPath": "D:\\ruanmou\\online13\\20191202高级班13期第10次课设计模式-1结构型\\OOP.DesignerPattern\\OOP.DesignerPattern\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "D:\\ruanmou\\online13\\20191202高级班13期第10次课设计模式-1结构型\\OOP.DesignerPattern\\OOP.DesignerPattern.AdapterPattern\\OOP.DesignerPattern.AdapterPattern.csproj": {
+              "projectPath": "D:\\ruanmou\\online13\\20191202高级班13期第10次课设计模式-1结构型\\OOP.DesignerPattern\\OOP.DesignerPattern.AdapterPattern\\OOP.DesignerPattern.AdapterPattern.csproj"
+            },
+            "D:\\ruanmou\\online13\\20191202高级班13期第10次课设计模式-1结构型\\OOP.DesignerPattern\\OOP.DesignerPattern.DecoratorPattern\\OOP.DesignerPattern.DecoratorPattern.csproj": {
+              "projectPath": "D:\\ruanmou\\online13\\20191202高级班13期第10次课设计模式-1结构型\\OOP.DesignerPattern\\OOP.DesignerPattern.DecoratorPattern\\OOP.DesignerPattern.DecoratorPattern.csproj"
+            },
+            "D:\\ruanmou\\online13\\20191202高级班13期第10次课设计模式-1结构型\\OOP.DesignerPattern\\OOP.DesignerPattern.ProxyPattern\\OOP.DesignerPattern.ProxyPattern.csproj": {
+              "projectPath": "D:\\ruanmou\\online13\\20191202高级班13期第10次课设计模式-1结构型\\OOP.DesignerPattern\\OOP.DesignerPattern.ProxyPattern\\OOP.DesignerPattern.ProxyPattern.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

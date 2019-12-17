@@ -1,0 +1,9 @@
+D:\软谋教育\Ruanmou\Advanced13Encrypt\20191010Advanced13Course3Reflection\20191010Advanced13Course3Reflection\MyReflection\Ruanmou.DB.Orcale\bin\Debug\Ruanmou.DB.Orcale.dll
+D:\软谋教育\Ruanmou\Advanced13Encrypt\20191010Advanced13Course3Reflection\20191010Advanced13Course3Reflection\MyReflection\Ruanmou.DB.Orcale\bin\Debug\Ruanmou.DB.Orcale.pdb
+D:\软谋教育\Ruanmou\Advanced13Encrypt\20191010Advanced13Course3Reflection\20191010Advanced13Course3Reflection\MyReflection\Ruanmou.DB.Orcale\bin\Debug\Ruanmou.DB.Interface.dll
+D:\软谋教育\Ruanmou\Advanced13Encrypt\20191010Advanced13Course3Reflection\20191010Advanced13Course3Reflection\MyReflection\Ruanmou.DB.Orcale\bin\Debug\Ruanmou.DB.Interface.pdb
+D:\软谋教育\Ruanmou\Advanced13Encrypt\20191010Advanced13Course3Reflection\20191010Advanced13Course3Reflection\MyReflection\Ruanmou.DB.Orcale\obj\Debug\Ruanmou.DB.Orcale.csprojAssemblyReference.cache
+D:\软谋教育\Ruanmou\Advanced13Encrypt\20191010Advanced13Course3Reflection\20191010Advanced13Course3Reflection\MyReflection\Ruanmou.DB.Orcale\obj\Debug\Ruanmou.DB.Orcale.csproj.CoreCompileInputs.cache
+D:\软谋教育\Ruanmou\Advanced13Encrypt\20191010Advanced13Course3Reflection\20191010Advanced13Course3Reflection\MyReflection\Ruanmou.DB.Orcale\obj\Debug\Ruanmou.DB.Orcale.csproj.CopyComplete
+D:\软谋教育\Ruanmou\Advanced13Encrypt\20191010Advanced13Course3Reflection\20191010Advanced13Course3Reflection\MyReflection\Ruanmou.DB.Orcale\obj\Debug\Ruanmou.DB.Orcale.dll
+D:\软谋教育\Ruanmou\Advanced13Encrypt\20191010Advanced13Course3Reflection\20191010Advanced13Course3Reflection\MyReflection\Ruanmou.DB.Orcale\obj\Debug\Ruanmou.DB.Orcale.pdb

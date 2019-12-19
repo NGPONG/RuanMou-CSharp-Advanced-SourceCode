@@ -1,0 +1,107 @@
+--******************************事务sql***********************************
+---开启事务
+ begin tran
+ --错误扑捉机制，看好啦，这里也有的。并且可以嵌套。
+ begin try  
+    --语句正确
+    insert into [Company] (Name,CreateTime,CreatorId) values ('阿里巴巴集团','2019-03-20',1)
+    --CreatorId为int类型，出错
+    insert into [Company] (Name,CreateTime,CreatorId) values ('百度科技有限公司','2019-03-20','Test')
+    --语句正确
+    insert into [Company] (Name,CreateTime,CreatorId) values ('腾讯科技有限公司','2019-03-20',2)
+ end try
+ begin catch
+    select Error_number() as ErrorNumber,  --错误代码
+           Error_severity() as ErrorSeverity,  --错误严重级别，级别小于10 try catch 捕获不到
+           Error_state() as ErrorState ,  --错误状态码
+           Error_Procedure() as ErrorProcedure , --出现错误的存储过程或触发器的名称。
+           Error_line() as ErrorLine,  --发生错误的行号
+           Error_message() as ErrorMessage  --错误的具体信息
+    if(@@trancount>0) --全局变量@@trancount，事务开启此值+1，他用来判断是有开启事务
+       rollback tran  ---由于出错，这里回滚到开始，第一条语句也没有插入成功。
+ end catch
+ if(@@trancount>0)
+ commit tran  --如果成功Company表中，将会有3条数据。
+ 
+ --表本身为空表，ID ,Numb为int 类型，其它为nvarchar类型
+ select * from [Company]
+
+******************************默认开启事务***********************************
+
+************************************死锁sql***************************************
+begin tran
+update [SysUser] set Name='腾讯公司-003' where Id=9;
+waitfor delay '0:0:5'
+update [Company] set Name='测试' where Id=2;
+commit tran
+
+begin tran
+update [Company] set Name='腾讯公司001' where Id=2;
+waitfor delay '0:0:5'
+update [SysUser] set Name='测试-001' where Id=9;
+commit tran
+
+
+************************************事务隔离read uncommitted***************************************
+begin tran 
+  set deadlock_priority low
+  update Company set Name='软谋234' where Id=1
+  waitfor  delay '0:0:5' --等待5秒执行下面的语句
+rollback tran
+
+set tran isolation level read uncommitted
+select * from [Company] where id=1  --读取的数据为正在修改的数据 ，脏读
+waitfor  delay '0:0:5'  --5秒之后数据已经回滚
+select * from [Company] where id=1--回滚之后的数据
+
+
+ 
+
+******************************事务含save tran***********************************
+
+---开启事务
+ begin tran
+ --错误扑捉机制，看好啦，这里也有的。并且可以嵌套。
+ begin try  
+    --语句正确
+    insert into [Company] (Name,CreateTime,CreatorId) values ('软谋','2019-03-20',3)
+    --加入保存点
+    save tran SavePoint
+    --CreatorId为int类型，出错
+    insert into [Company] (Name,CreateTime,CreatorId) values ('软谋','2019-03-20','Test')
+    --语句正确
+    insert into [Company] (Name,CreateTime,CreatorId) values ('软谋','2019-03-20',4)
+ end try
+ begin catch
+    select Error_number() as ErrorNumber,  --错误代码
+           Error_severity() as ErrorSeverity,  --错误严重级别，级别小于10 try catch 捕获不到
+           Error_state() as ErrorState ,  --错误状态码
+           Error_Procedure() as ErrorProcedure , --出现错误的存储过程或触发器的名称。
+           Error_line() as ErrorLine,  --发生错误的行号
+           Error_message() as ErrorMessage  --错误的具体信息
+    if(@@trancount>0) --全局变量@@trancount，事务开启此值+1，他用来判断是有开启事务
+       rollback tran  ---由于出错，这里回滚到开始，第一条语句也没有插入成功。
+ end catch
+ if(@@trancount>0)
+ rollback tran SavePoint  --如果成功Company表中，将会有3条数据。
+ 
+ --表本身为空表，ID ,Numb为int 类型，其它为nvarchar类型
+ select * from [Company]
+
+ 
+*********************************************************
+
+锁定提示                                 描述  
+HOLDLOCK        将共享锁保留到事务完成，而不是在相应的表、行或数据页不再需要时就立即释放锁。HOLDLOCK        等同于        SERIALIZABLE。        
+NOLOCK        不要发出共享锁，并且不要提供排它锁。当此选项生效时，可能会读取未提交的事务或一组在读取中间回滚的页面。有可能发生脏读。仅应用于SELECT语句。        
+PAGLOCK        在通常使用单个表锁的地方采用页锁。        
+READCOMMITTED        用与运行在提交读隔离级别的事务相同的锁语义执行扫描。默认情况下，SQL        Server        2000        在此隔离级别上操作。        
+READPAST        跳过锁定行。此选项导致事务跳过由其它事务锁定的行（这些行平常会显示在结果集内），而不是阻塞该事务，使其等待其它事务释放在这些行上的锁。READPAST        锁提示仅适用于运行在提交读隔离级别的事务，并且只在行级锁之后读取。仅适用于        SELECT        语句。        
+READUNCOMMITTED        等同于        NOLOCK。        
+REPEATABLEREAD        用与运行在可重复读隔离级别的事务相同的锁语义执行扫描。        
+ROWLOCK        使用行级锁，而不使用粒度更粗的页级锁和表级锁。 (SELECT,UPDATE和DELETE)    
+SERIALIZABLE        用与运行在可串行读隔离级别的事务相同的锁语义执行扫描。等同于        HOLDLOCK。        
+TABLOCK        使用表锁代替粒度更细的行级锁或页级锁。在语句结束前，SQL        Server        一直持有该锁。但是，如果同时指定        HOLDLOCK，那么在事务结束之前，锁将被一直持有。        
+TABLOCKX        使用表的排它锁。该锁可以防止其它事务读取或更新表，并在语句或事务结束前一直持有。        
+UPDLOCK        读取表时使用更新锁，而不使用共享锁，并将锁一直保留到语句或事务的结束。UPDLOCK        的优点是允许您读取数据（不阻塞其它事务）并在以后更新数据，同时确保自从上次读取数据后数据没有被更改。        
+XLOCK        使用排它锁并一直保持到由语句处理的所有数据上的事务结束时。可以使用        PAGLOCK        或        TABLOCK        指定该锁，这种情况下排它锁适用于适当级别的粒度
